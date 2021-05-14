@@ -1,0 +1,7 @@
+INSERT INTO TB_PRODUTOS VALUES (null, "Geladeira", 1, 1200);
+INSERT INTO TB_PRODUTOS VALUES (null, "Iphone", 3, 2200);
+INSERT INTO TB_PRODUTOS VALUES (null, "Televisão", 6, 3200);
+INSERT INTO TB_PRODUTOS VALUES (null, "Violão", 1, 1300);
+INSERT INTO TB_PRODUTOS VALUES (null, "Cadeira Gamer", 8, 1500);
+INSERT INTO TB_PRODUTOS VALUES (null, "Mesa de Computador", 1, 900);
+INSERT INTO TB_PRODUTOS VALUES (null, "Teclado mecânico", 9, 200);
